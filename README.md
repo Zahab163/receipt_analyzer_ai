@@ -6,6 +6,8 @@ A Python-based tool for analyzing receipts, categorizing expenses, and generatin
 This project demonstrates a workflow from **OCR → Expense Categorization → Analysis → AI-style Guidance → LLM-powered Advice**.  
 
 🔗 [Try the interactive demo on PartyRock](https://partyrock.aws/u/Zahab163/cZx-YcWaQ/Smart-Receipt-Spending-Analyzer)
+
+
 [LIVE DEMO](https://youtu.be/Ok6dTDxbsaU)
 ---
 
